@@ -26,5 +26,4 @@ Aplikasi akan tersedia di `http://localhost:8501`.
 ## Struktur
 - [app.py](app.py) — kode aplikasi utama
 - [requirements.txt](requirements.txt) — daftar dependensi
-- [.gitignore](.gitignore) — pengecualian file untuk Git
 - [README.md](README.md) — panduan proyek
